@@ -2,3 +2,4 @@ this file has java script
 dependencies
 plugin
 ythrfgdds
+it also have python script
