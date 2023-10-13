@@ -3,3 +3,4 @@ dependencies
 plugin
 ythrfgdds
 it also have python script
+this is a server
